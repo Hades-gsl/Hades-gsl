@@ -31,10 +31,20 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
+<br/>
+
 <a href="https://github.com/Hades-gsl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hades-gsl&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hades-gsl&theme=buefy&layout=compact" />
 </a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="mailto:gushilei666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gushilei666@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <!--
 **Hades-gsl/Hades-gsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
