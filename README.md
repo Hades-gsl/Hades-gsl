@@ -1,4 +1,11 @@
-## Hi there 👋
+<h2> Hi there!👋</h2>
+
+<h3>I'm Hades Gu, studying Computer Science and Technology at Nanjing University.</h3>
+
+<a href="https://github.com/Hades-gsl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hades-gsl&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hades-gsl&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **Hades-gsl/Hades-gsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
